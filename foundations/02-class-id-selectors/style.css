@@ -1,0 +1,23 @@
+.odd-nmbr{
+    background-color: #ff8c8c;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue{
+    color: #0000fff5;
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#green{
+    background-color: #86ff6b;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+*{
+    font-family: sans-serif;
+}
